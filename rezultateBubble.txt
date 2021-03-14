@@ -1,0 +1,282 @@
+Avem 10 numere:
+	Codul random:
+		Valoarea maxima 10:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 100000000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.0;
+			Sortat corect: True
+	Codul sortate_crescator_cu_egalitati:
+		Valoarea maxima 10:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 100000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.0;
+			Sortat corect: True
+	Codul sortate_crescator_distincte:
+		Valoarea maxima 10:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 100000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.0;
+			Sortat corect: True
+	Codul sortate_aproape_crescator:
+		Valoarea maxima 10:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 100000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.0;
+			Sortat corect: True
+	Codul sortate_descrescator_cu_egalitati:
+		Valoarea maxima 10:
+			Durata: 0.0009965896606445312;
+			Sortat corect: False
+		Valoarea maxima 1000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 100000000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.0;
+			Sortat corect: False
+	Codul sortate_descrescator_distincte:
+		Valoarea maxima 10:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 100000000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.0;
+			Sortat corect: False
+	Codul sortate_aproape_descrescator:
+		Valoarea maxima 10:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 100000000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.0;
+			Sortat corect: False
+	Codul egale:
+		Valoarea maxima 10:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 100000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.0;
+			Sortat corect: True
+	Codul valori_mari:
+		Valoarea maxima 10:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 100000000:
+			Durata: 0.0;
+			Sortat corect: False
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.0;
+			Sortat corect: False
+Avem 1000 numere:
+	Codul random:
+		Valoarea maxima 10:
+			Durata: 0.1865367889404297;
+			Sortat corect: False
+		Valoarea maxima 1000:
+			Durata: 0.17549705505371094;
+			Sortat corect: False
+		Valoarea maxima 1000000:
+			Durata: 0.2154250144958496;
+			Sortat corect: False
+		Valoarea maxima 100000000:
+			Durata: 0.18354487419128418;
+			Sortat corect: False
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.19245100021362305;
+			Sortat corect: False
+	Codul sortate_crescator_cu_egalitati:
+		Valoarea maxima 10:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 100000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.0;
+			Sortat corect: True
+	Codul sortate_crescator_distincte:
+		Valoarea maxima 10:
+		Valoarea maxima 1000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 100000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.0009975433349609375;
+			Sortat corect: True
+	Codul sortate_aproape_crescator:
+		Valoarea maxima 10:
+		Valoarea maxima 1000:
+			Durata: 0.0009975433349609375;
+			Sortat corect: True
+		Valoarea maxima 1000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 100000000:
+			Durata: 0.0019943714141845703;
+			Sortat corect: True
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.000997304916381836;
+			Sortat corect: True
+	Codul sortate_descrescator_cu_egalitati:
+		Valoarea maxima 10:
+			Durata: 0.14860272407531738;
+			Sortat corect: False
+		Valoarea maxima 1000:
+			Durata: 0.3091723918914795;
+			Sortat corect: False
+		Valoarea maxima 1000000:
+			Durata: 0.209442138671875;
+			Sortat corect: False
+		Valoarea maxima 100000000:
+			Durata: 0.2961690425872803;
+			Sortat corect: False
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.21047115325927734;
+			Sortat corect: False
+	Codul sortate_descrescator_distincte:
+		Valoarea maxima 10:
+		Valoarea maxima 1000:
+			Durata: 0.2662830352783203;
+			Sortat corect: False
+		Valoarea maxima 1000000:
+			Durata: 0.22635984420776367;
+			Sortat corect: False
+		Valoarea maxima 100000000:
+			Durata: 0.282240629196167;
+			Sortat corect: False
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.22838664054870605;
+			Sortat corect: False
+	Codul sortate_aproape_descrescator:
+		Valoarea maxima 10:
+		Valoarea maxima 1000:
+			Durata: 0.23137617111206055;
+			Sortat corect: False
+		Valoarea maxima 1000000:
+			Durata: 0.21841764450073242;
+			Sortat corect: False
+		Valoarea maxima 100000000:
+			Durata: 0.23334527015686035;
+			Sortat corect: False
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.3720057010650635;
+			Sortat corect: False
+	Codul egale:
+		Valoarea maxima 10:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 1000000:
+			Durata: 0.0;
+			Sortat corect: True
+		Valoarea maxima 100000000:
+			Durata: 0.0009970664978027344;
+			Sortat corect: True
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.0;
+			Sortat corect: True
+	Codul valori_mari:
+		Valoarea maxima 10:
+			Durata: 0.23836159706115723;
+			Sortat corect: False
+		Valoarea maxima 1000:
+			Durata: 0.19846892356872559;
+			Sortat corect: False
+		Valoarea maxima 1000000:
+			Durata: 0.1825113296508789;
+			Sortat corect: False
+		Valoarea maxima 100000000:
+			Durata: 0.17752671241760254;
+			Sortat corect: False
+		Valoarea maxima 1000000000000000000:
+			Durata: 0.2433481216430664;
+			Sortat corect: False
